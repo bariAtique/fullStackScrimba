@@ -1,0 +1,38 @@
+/* Container to center the card on the page */
+.background-container {
+  background-color: #222222;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+/* The White Card */
+.card {
+  background-color: white;
+  padding: 30px 40px;
+  border-radius: 25px; /* Creates the rounded corners */
+  min-width: 250px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Styling the text lines */
+.card p {
+  margin: 10px 0;
+  font-size: 24px;
+  color: #000;
+}
+
+/* Aligning the price and the play icon */
+.price-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.play-arrow {
+  color: #0baf4a; /* Gray color for the arrow */
+  font-size: 50px;
+  cursor: pointer;
+}
