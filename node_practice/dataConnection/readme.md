@@ -1,5 +1,7 @@
 ### _ Inspired by _[Watch WsCubeTech](https://youtu.be/vfaRzV3P92o?si=QvL4mT8gOqYH45Zu)
 
+### **Important Query** [Click](https://docs.google.com/document/d/1rGD1TrrbR6zMhTcVp-18m_VSggr3hkr7Bgda5tcrpsE/edit?usp=sharing)
+
 ## How to Connect MongoDB (localhost)to Project?
 
 ## How to Connect Atlas (online) to Project?
